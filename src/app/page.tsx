@@ -14,6 +14,7 @@ import Roadmap from "@/components/Roadmap";
 import GithubStats from "@/components/GithubStats";
 import ArchitectureDiagram from "@/components/ArchitectureDiagram";
 import ValidatorDocs from "@/components/ValidatorDocs";
+import ProtocolVisualizations from "@/components/ProtocolVisualizations";
 
 export default function Home() {
   return (
@@ -265,6 +266,7 @@ export default function Home() {
     </p>
 
     <NetworkVisualization />
+    <ProtocolVisualizations />
     <HowFluxlockWorks />
 
 <IdentityEpochs />
