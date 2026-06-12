@@ -26,7 +26,7 @@ export default function Navbar() {
           </a>
 
           <a
-            href="https://github.com/redirect-dev/Fluxlock-node/blob/master/docs/whitepaper/FLUXLOCK_WHITEPAPER_V2.md"
+            href="https://github.com/redirect-dev/Fluxlock-node/blob/master/docs/FLUXLOCK_WHITEPAPER_V2.md"
             target="_blank"
             className="hover:text-cyan-400 transition"
           >
