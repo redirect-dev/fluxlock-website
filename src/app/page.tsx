@@ -60,12 +60,12 @@ export default function Home() {
   </a>
 
   <a
-    href="/FLUXLOCK_WHITEPAPER_V2.pdf"
-    target="_blank"
-    className="rounded-xl border border-cyan-500 px-8 py-4 hover:bg-cyan-500/10 transition"
-  >
-    Whitepaper
-  </a>
+  href="/whitepaper/FLUXLOCK_WHITEPAPER_V2.pdf"
+  target="_blank"
+  className="rounded-xl border border-cyan-500 px-8 py-4 hover:bg-cyan-500/10 transition"
+>
+  Whitepaper
+</a>
 
   <a
     href="https://github.com/redirect-dev/Fluxlock-node/releases/tag/v1.0-freeze"
@@ -489,11 +489,11 @@ export default function Home() {
     </a>
     
     <a
-  href="/FLUXLOCK_WHITEPAPER_V2.pdf"
-  target="_blank"
-  className="text-cyan-400 hover:text-cyan-300"
+    href="/whitepaper/FLUXLOCK_WHITEPAPER_V2.pdf"
+    target="_blank"
+    className="text-cyan-400 hover:text-cyan-300"
 >
-  Whitepaper
+    Whitepaper
 </a>
 
     <a
